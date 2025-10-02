@@ -1,3 +1,6 @@
+// New Arju commit
+
+
 console.log("script is active")
 function addFoodToBasket(did, dname, dprice, dimage) {
     cart = localStorage.getItem("cart");
@@ -165,5 +168,3 @@ document.re
 $(document).ready(function () {
     updateCart();
 })
-
-
