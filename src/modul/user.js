@@ -8,3 +8,4 @@ const User=mongoose.Schema({
     type:String,
 })
 module.exports=mongoose.model("user",User);
+//akshat updated
