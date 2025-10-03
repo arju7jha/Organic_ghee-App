@@ -15,7 +15,7 @@ app.use(session({
 app.use(bodyParser.urlencoded({
     extended:true
 }))
-
+//akshat update
 app.use('',route)
 //static folder
 app.use("/static",express.static("public"));
